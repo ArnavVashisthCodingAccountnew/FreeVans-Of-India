@@ -50,4 +50,3 @@ function clearArea() {
     ctx.clearRect(0, 0, ctx.canvas.width, ctx.canvas.height);
 }
     // end of old same old as the paint web app
-}
